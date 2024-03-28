@@ -42,6 +42,7 @@
       }
     }
   },
+  "socket": true,
   "url": "https://github.com/zibzock/stheno-ancestry",
   "download":"https://raw.githubusercontent.com/zibzock/stheno-ancestry/main/stheno-ancestry.zip",
   "manifest":"https://raw.githubusercontent.com/zibzock/stheno-ancestry/main/module.json"
