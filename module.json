@@ -1,0 +1,47 @@
+{
+  "id": "stheno-ancestry",
+  "title": "Song of the Stheno",
+  "description": "A Stheno ancestry for Pathfinder 2nd Edition.",
+  "url":"https://drive.google.com/drive/folders/1_if0RW3ATp7DtNHPt3Jl10LO6kgAnGE6?usp=drive_link",
+  "authors": [
+  {
+  "name":"John Quarnstrom",
+  "email":"jquarn3rd@gmail.com",
+  "discord":"zibzock"
+  }
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "packs": [
+    {
+      "label": "Song of the Stheno",
+      "name": "stheno-ancestry",
+      "type": "Item",
+      "system": "pf2e",
+      "path": "packs/stheno-ancestry"
+    }
+  ],
+  "flags": {
+    "stheno-ancestry": {
+      "pf2e-homebrew": {
+        "featTraits": {
+          "stheno": {
+            "label": "Stheno",
+            "description": "A creature with this trait is a member of the stheno ancestry. Stheno are a century young people striving to develop a culture and find a home of their own. An ability with this trait can be used or selected only by stheno."
+          }
+        },
+        "creatureTraits": {
+          "stheno": {
+            "label": "Stheno",
+            "description": "A creature with this trait is a member of the stheno ancestry. Stheno are a century young people striving to develop a culture and find a home of their own. An ability with this trait can be used or selected only by stheno."
+          }
+        }
+      }
+    }
+  },
+  "download":"https://drive.google.com/uc?export=download&id=1g3vkHgIaqu4rGcahjOWaZrX7JWy2C3pw",
+  "manifest":"https://drive.google.com/uc?export=download&id=1b0PExk1f5mfgY9XgLrx-rXwNm-eIGvcB"
+}
